@@ -47,7 +47,6 @@
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
-        	let url = 'https://github.com/felipetesc/CtkDocs/docs/';
         	let rev = 'rev0.0.1';
         	let version = '0.0.1';
         	let edit = '<a href="' + url + '">Edit on GitHub</a>\n';
@@ -56,7 +55,7 @@
           		+ '\n----\n'
           		+ '<footer style="color:#999999; font-size:0.9em;">'
           		+ '<span>Version ' + version + ' (' + rev + ') - </span>'
-          		+ edit
+          		+ 'https://github.com/felipetesc/CtkDocs/'
           		+ '</footer>'
           })
         }
