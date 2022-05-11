@@ -1,0 +1,8 @@
+{
+"theme_color" : "#f69435"
+"background_color" : "#000000"
+"display" : "browser"
+"scope" : "/"
+"start_url" : "https://felipetesc.github.io/CtkDocs/#/"
+"name" : "CtkDocs"
+}
