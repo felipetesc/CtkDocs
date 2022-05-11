@@ -44,22 +44,6 @@
           textColor: "var(--theme-color)"
         }
       },
-      plugins: [
-        function (hook, vm) {
-          hook.beforeEach(function (html) {
-        	let rev = 'rev0.0.1';
-        	let version = '0.0.1';
-        	let edit = '<a href="' + url + '">Edit on GitHub</a>\n';
-
-        	return html
-          		+ '\n----\n'
-          		+ '<footer style="color:#999999; font-size:0.9em;">'
-          		+ '<span>Version ' + version + ' (' + rev + ') - </span>'
-          		+ 'https://github.com/felipetesc/CtkDocs/'
-          		+ '</footer>'
-          })
-        }
-      ]
     }
   </script>
   <!-- Docsify v4 -->
