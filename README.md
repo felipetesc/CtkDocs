@@ -1,5 +1,5 @@
 # CtkDocs
-is an alternative Docs for CustomTkinter(https://github.com/TomSchimansky/CustomTkinterhttps://github.com/TomSchimansky/CustomTkinter) using Docsify. 
+is an alternative Docs for CustomTkinter(https://github.com/TomSchimansky/CustomTkinter) using Docsify. 
 
 The current version is based on the contents available at https://github.com/TomSchimansky/CustomTkinter/wiki created by Tom Schimansky.
 
