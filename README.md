@@ -6,7 +6,7 @@ The current version is based on the contents available at https://github.com/Tom
 
 #### Read the docs
 
-If You only want to read the docs navigato to https://felipetesc.github.io/CtkDocs/#/.
+If You only want to read the docs navigate to https://felipetesc.github.io/CtkDocs/#/.
 
 #### Add new contents
 
