@@ -16,13 +16,22 @@ If You never used markdown read the the contents from https://www.markdownguide.
 
 
 #### Run Docsify Locally
+Prerequisites
 To run locally on your machine, you will need to install:
-1- Node
-2- docsify
+- Node
+- docsify
 
 If you don't know how to install and configure Node and docsify follow the guides found in the links below, or search the internet for how to do it.
 
-1. Install Node -> https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
-2. Install Docsify Help -> https://docsify.js.org/#/quickstart
+Install Node -> https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+Install Docsify Help -> https://docsify.js.org/#/quickstart
+
+1. After Node and docsify are installed on your system, clone that repository.
+
+2. Open your preferred console, and navigate to the docs folder inside the CtkDocs repository.
+
+3. Run docsify serve
+
+
 
 
