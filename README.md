@@ -1,13 +1,28 @@
 # CtkDocs
-Alternative Docs for CustomTkinter using Docsify 
-https://github.com/TomSchimansky/CustomTkinter
+is an alternative Docs for CustomTkinter(https://github.com/TomSchimansky/CustomTkinterhttps://github.com/TomSchimansky/CustomTkinter) using Docsify. 
+
+The current version is based on the contents available at https://github.com/TomSchimansky/CustomTkinter/wiki created by Tom Schimansky.
 
 
-In order to use You will need 
-- Node 
-- Docsify
+#### Read the docs
+
+If You only want to read the docs navigato to https://felipetesc.github.io/CtkDocs/#/.
+
+#### Add new contents
+
+If You desire to expand the documentation, clone this repo. To add new contents I'm using Obsidian client, but there are many other clients out there to the markdown language.
+
+If You never used markdown read the the contents from https://www.markdownguide.org/getting-started/ and familiarize with it.
+
+
+#### Run Docsify Locally
+To run locally on your machine, you will need to install:
+1- Node
+2- docsify
+
+If you don't know how to install and configure Node and docsify follow the guides found in the links below, or search the internet for how to do it.
 
 1. Install Node -> https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 2. Install Docsify Help -> https://docsify.js.org/#/quickstart
 
-By following the guides found at the url above You can run it locally
+
