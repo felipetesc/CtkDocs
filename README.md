@@ -26,11 +26,13 @@ If you don't know how to install and configure Node and docsify follow the guide
 Install Node -> https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 Install Docsify Help -> https://docsify.js.org/#/quickstart
 
-1. After Node and docsify are installed on your system, clone that repository.
+1. After Node and docsify are installed on your system, clone this repository.
 
 2. Open your preferred console, and navigate to the docs folder inside the CtkDocs repository.
 
 3. Run docsify serve
+
+4. Open Your browser and navigate to **http://localhost:3000/**
 
 
 
