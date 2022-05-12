@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "samples.md",
+            "file": "install.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "samples.md",
+                "file": "install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c23f46f8dca57645",
   "lastOpenFiles": [
-    "samples.md",
-    "home.md",
-    "_sidebar.md",
+    "install.md",
     "pyinstaller.md",
+    "roadmap.md",
+    "samples.md",
     "ctk_radio_button.md",
-    "ctk_progress_bar.md",
-    "ctk_label.md",
     "ctk_input_dialog.md",
     "ctk_frame.md",
-    "ctk_entry.md"
+    "ctk_entry.md",
+    "ctk_button.md",
+    "home.md"
   ]
 }
