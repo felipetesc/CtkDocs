@@ -51,4 +51,4 @@ app.mainloop()
 
 ```
 
-PS: You can find sample icon images inside the folder assets at:
+PS: You can find sample icon images inside the folder assets at: https://github.com/felipetesc/CtkDocs/tree/main/docs/assets
