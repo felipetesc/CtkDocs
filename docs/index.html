@@ -8,14 +8,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
 
-  <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
-  <link  rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css"/>
-
+ 
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" title="docsify-darklight-theme" type="text/css" />
+  
 
 </head>
 <body>
   <div id="app"></div>
-  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  
   <script>
   if (typeof navigator.serviceWorker !== 'undefined') {
     navigator.serviceWorker.register('sw.js')
@@ -32,19 +32,14 @@
       
       search: 'auto', 
       search : [
-        '/sections/',
-        '/sections/widgets', 
+        '/', 
       ],
       darkMode: {
         dark: {
-          background: "#1c2022",
-          toggleBtnBg: "#34495e",
-          textColor: "#b4b4b4"
+          
         },
         light: {
-          background: "white",
-          toggleBtnBg: "var(--theme-color)",
-          textColor: "var(--theme-color)"
+          
         }
       },
       plugins: [
@@ -72,7 +67,11 @@
   <script src="https://unpkg.com/prismjs/components/prism-bash.min.js"></script>
   <script src="https://unpkg.com/prismjs/components/prism-python.min.js"></script>
   <script src="https://unpkg.com/prismjs/components/prism-json.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script 
+    src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
+    type="text/javascript">
+</script>
 
 </body>
 </html>

@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b730eb9e5419c593",
+    "type": "split",
+    "children": [
+      {
+        "id": "c23f46f8dca57645",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "samples.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a69d0139434caf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffd98dee73c2cb30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bf81dbf5d937f87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cefaaecd28c8bf1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "062fde7a4b0ff58e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b11579150d1d276d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "841e4557e03e58b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "samples.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c23f46f8dca57645",
+  "lastOpenFiles": [
+    "samples.md",
+    "home.md",
+    "_sidebar.md",
+    "pyinstaller.md",
+    "ctk_radio_button.md",
+    "ctk_progress_bar.md",
+    "ctk_label.md",
+    "ctk_input_dialog.md",
+    "ctk_frame.md",
+    "ctk_entry.md"
+  ]
+}

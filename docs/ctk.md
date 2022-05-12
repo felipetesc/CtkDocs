@@ -1,4 +1,5 @@
-## Intro
+## CTk
+
 
 Theoretically you could also use the normal `tkinter.Tk` class to create a window and place CTK widgets on it,
 but it is highly recommended to use the `cuatomtkinter.CTk` to create the window if you use CustomTkinter.

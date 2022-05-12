@@ -1,3 +1,5 @@
+## CTkSwitch
+
 The switch should behave similar to the CTkCheckBox.
 
 #### Example Code:

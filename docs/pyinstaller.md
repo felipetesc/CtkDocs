@@ -1,4 +1,6 @@
-## Windows PyInstaller (Auto Py to Exe)
+## Packing and distributing
+
+### Windows PyInstaller (Auto Py to Exe)
 
 When you create a .exe on Windows with pyinstaller, there are two things you have to consider.
 Firstly, you cannot use the `--onefile` option of pyinstaller, because the customtkinter library includes not only .py files, but also data files like .json and .otf. PyInstaller is not able to pack them into a single .exe file, so **you have to use the `--onedir` option.**

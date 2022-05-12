@@ -1,3 +1,5 @@
+## CTkToplevel
+
 CTkToplevel works exactly like the `Tkinter.Toplevel`, and should be used to create more than one window.
 
 #### Example Code:

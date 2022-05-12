@@ -1,3 +1,5 @@
+## CTkLabel
+
 #### Example Code:
 Default theme:
 ```python

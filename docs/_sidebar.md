@@ -1,20 +1,31 @@
 * **CustomTkinter**
-* Overview
-	- [Home](/home.md "About")
-	- [Appearance](/sections/appearance.md "Themes and Styling")
-	- [Roadmap](/sections/roadmap.md "Roadmap")
-* Classes
-	- [Ctk Class](/sections/ctk.md)
-	- [Button Class](/sections/widgets/ctk_button.md)
-	- [Entry Class](/sections/widgets/ctk_entry.md)
-	- [Frame Class](/sections/widgets/ctk_frame.md)
-	- [InputDialog Class](/sections/widgets/ctk_input_dialog.md)
-	- [Label Class](/sections/widgets/ctk_label.md)
-	- [ProgressBar Class](/sections/widgets/ctk_progress_bar.md)
-	- [RadioButton Class](/sections/widgets/ctk_radio_button.md)
-	- [Slider Class](/sections/widgets/ctk_slider.md)
-	- [Switch Class](/sections/widgets/ctk_switch.md)
-	- [TopLevel Class](/sections/widgets/ctk_top_level.md)
-	
-* Distributing
-	- [Pyinstaller](/sections/pyinstaller.md "Pyinstaller")
+	* General
+		- [Home](/home.md "About")
+		- [Installation](/install.md "Installation")
+		- [Samples](/samples.md "Sample Code")
+		- [Appearance](/appearance.md "Themes and Styling")
+		- [FAQ](/faq.md "Frequent Asked Questions")
+		- [Roadmap](/roadmap.md "Roadmap")
+		- [Contribute](/contribute.md "Contribute")
+
+	* Cookbook
+
+		- [Change icon](/change_icon.md)
+
+	* Reference
+		* Commom Classes
+			- [Ctk Class](/ctk.md)
+			- [Frame Class](/ctk_frame.md)
+			- [TopLevel Class](/ctk_top_level.md)
+		* Widgets
+			- [Button Class](/ctk_button.md)
+			- [Entry Class](/ctk_entry.md)
+			- [InputDialog Class](/ctk_input_dialog.md)
+			- [Label Class](/ctk_label.md)
+			- [ProgressBar Class](/ctk_progress_bar.md)
+			- [RadioButton Class](/ctk_radio_button.md)
+			- [Slider Class](/ctk_slider.md)
+			- [Switch Class](/ctk_switch.md)
+
+	* Distributing
+		- [Pyinstaller](/pyinstaller.md "Pyinstaller")

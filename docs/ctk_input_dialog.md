@@ -1,3 +1,5 @@
+## CTkInputDialog
+
 This is a simple dialog to input a string or number.
 
 #### Example Code:
