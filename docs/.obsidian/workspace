@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resizable_frame.md",
+            "file": "_sidebar.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resizable_frame.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "c23f46f8dca57645",
   "lastOpenFiles": [
+    "_sidebar.md",
     "resizable_frame.md",
     "ctk_top_level.md",
-    "_sidebar.md",
     "change_icon.md",
     "how_to.md",
     "contribute.md",

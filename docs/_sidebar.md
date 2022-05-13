@@ -11,7 +11,7 @@
 	* Cookbook
 
 		- [Change icon](/change_icon.md)
-		- [Resiable Frame](/resizable_frame.md)
+		- [Resizable Frame](/resizable_frame.md)
 
 	* Reference
 		* Commom Classes
