@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "change_icon.md",
+            "file": "resizable_frame.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "change_icon.md",
+                "file": "resizable_frame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c23f46f8dca57645",
   "lastOpenFiles": [
+    "resizable_frame.md",
+    "ctk_top_level.md",
+    "_sidebar.md",
     "change_icon.md",
     "how_to.md",
     "contribute.md",
     "install.md",
     "pyinstaller.md",
     "roadmap.md",
-    "samples.md",
-    "ctk_radio_button.md",
-    "ctk_input_dialog.md",
-    "ctk_frame.md"
+    "samples.md"
   ]
 }
