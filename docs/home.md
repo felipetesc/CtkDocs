@@ -12,6 +12,10 @@ Under the hood CustomTkinter library, or Ctk, implements its widgets using Tkint
 Almost all widgets are children of the CtkBaseClass. This shared behaviour is needed to allow the class CTkDrawEngine to correctly render each component. As it's written inside the file ctk_draw_engine.py, CtkDrawEngine is the object offering the core functionallity of CustomTkinter library.  It is the part of the library responsible for drawing everything.
 Before, we told you that not all the widgets descent from  CtkBaseClass, the exception is the class CtkCanvas, which is a modified child of tkinter.Canvas class and it's used inside each Ctk widget.
 
+![Project Classes](/assets/classes.png)
+
+![Project Packages](/assets/packages.png)
+
 
 
 ### Available Widgets
