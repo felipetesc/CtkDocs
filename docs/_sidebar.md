@@ -11,7 +11,9 @@
 	* Cookbook
 
 		- [Change icon](/change_icon.md)
-		- [Resizable Frame](/resizable_frame.md)
+		- [Draggable Frame](draggable_frame.md)
+		- [Change Theme](/change_theme.md)
+		- [Resize Window](/change_theme.md)
 
 	* Reference
 		* Commom Classes
