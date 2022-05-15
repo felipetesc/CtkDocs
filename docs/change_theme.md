@@ -4,7 +4,7 @@
 ```python
 
 import tkinter
-import customtkinter  # <- import the CustomTkinter module
+import customtkinter
 
 DARK_MODE = "dark"
 customtkinter.set_appearance_mode(DARK_MODE)
@@ -14,9 +14,6 @@ customtkinter.set_default_color_theme("blue")
 class App(customtkinter.CTk):
 
     color = "dark"
-
-    def __init__():
-        super().__init__()
 
     def toggle_color(self):
 

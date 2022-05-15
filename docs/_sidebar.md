@@ -13,7 +13,7 @@
 		- [Change icon](/change_icon.md)
 		- [Draggable Frame](draggable_frame.md)
 		- [Change Theme](/change_theme.md)
-		- [Resize Window](/change_theme.md)
+		- [Resize Window](/resize_window.md)
 
 	* Reference
 		* Commom Classes

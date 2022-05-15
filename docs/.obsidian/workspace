@@ -89,6 +89,7 @@
   "active": "c23f46f8dca57645",
   "lastOpenFiles": [
     "change_theme.md",
+    "resize_window.md",
     "_sidebar.md",
     "draggable_frame.md",
     "_navbar.md",
@@ -96,7 +97,6 @@
     "ctk_input_dialog.md",
     "ctk_entry.md",
     "ctk_check_box.md",
-    "ctk_button.md",
-    "roadmap.md"
+    "ctk_button.md"
   ]
 }
