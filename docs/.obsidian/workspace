@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "roadmap.md",
+            "file": "home.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmap.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c23f46f8dca57645",
   "lastOpenFiles": [
+    "home.md",
+    "ctk_input_dialog.md",
+    "ctk_entry.md",
+    "ctk_check_box.md",
+    "ctk_button.md",
     "roadmap.md",
     "win_resize.md",
     "samples.md",
     "bind_events.md",
-    "resizable_frame.md",
-    "_sidebar.md",
-    "ctk_top_level.md",
-    "change_icon.md",
-    "how_to.md",
-    "contribute.md"
+    "resizable_frame.md"
   ]
 }

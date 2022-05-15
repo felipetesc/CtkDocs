@@ -13,6 +13,7 @@ Almost all widgets are children of the CtkBaseClass. This shared behaviour is ne
 Before, we told you that not all the widgets descent from  CtkBaseClass, the exception is the class CtkCanvas, which is a modified child of tkinter.Canvas class and it's used inside each Ctk widget.
 
 
+
 ### Available Widgets
 
 Each ui component is structured as class, and as told before, all widgets have a common parent, the class CtkBaseClass. Today, the library offers the following widgets:

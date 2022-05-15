@@ -23,6 +23,7 @@ button = customtkinter.CTkButton(master=root_tk,
 button.place(relx=0.5, rely=0.5, anchor=tkinter.CENTER)
 ```
 
+
 #### Arguments:
 
 argument | value
