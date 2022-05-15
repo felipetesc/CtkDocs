@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_sidebar.md",
+            "file": "win_resize.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 207
   },
   "right": {
     "id": "062fde7a4b0ff58e",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "win_resize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c23f46f8dca57645",
   "lastOpenFiles": [
-    "_sidebar.md",
+    "win_resize.md",
+    "roadmap.md",
+    "samples.md",
+    "bind_events.md",
     "resizable_frame.md",
+    "_sidebar.md",
     "ctk_top_level.md",
     "change_icon.md",
     "how_to.md",
-    "contribute.md",
-    "install.md",
-    "pyinstaller.md",
-    "roadmap.md",
-    "samples.md"
+    "contribute.md"
   ]
 }
