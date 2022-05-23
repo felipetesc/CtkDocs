@@ -14,6 +14,7 @@
 		- [Draggable Frame](draggable_frame.md)
 		- [Change Theme](/change_theme.md)
 		- [Resize Window](/resize_window.md)
+		- [Multiple Frames](/multiple_frames.md)
 
 	* Reference
 		* Commom Classes

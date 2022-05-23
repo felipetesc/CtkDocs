@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "change_theme.md",
+            "file": "multiple_frames.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "change_theme.md",
+                "file": "multiple_frames.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c23f46f8dca57645",
   "lastOpenFiles": [
-    "change_theme.md",
+    "multiple_frames.md",
     "resize_window.md",
     "_sidebar.md",
+    "change_theme.md",
     "draggable_frame.md",
     "_navbar.md",
     "home.md",
     "ctk_input_dialog.md",
     "ctk_entry.md",
-    "ctk_check_box.md",
-    "ctk_button.md"
+    "ctk_check_box.md"
   ]
 }
