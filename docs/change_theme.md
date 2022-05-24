@@ -1,5 +1,11 @@
 ### Change Theme
 
+If you want to change the appereance mode on-the-fly:
+
+##### Preview
+![Project Packages](/assets/change_theme.gif)
+
+##### Code
 
 ```python
 

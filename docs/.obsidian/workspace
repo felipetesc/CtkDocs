@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c23f46f8dca57645",
+        "id": "1c83e07efc6490fa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "multiple_frames.md",
+            "file": "change_theme.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "multiple_frames.md",
+                "file": "change_theme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c23f46f8dca57645",
+  "active": "1c83e07efc6490fa",
   "lastOpenFiles": [
-    "multiple_frames.md",
-    "resize_window.md",
-    "_sidebar.md",
     "change_theme.md",
     "draggable_frame.md",
-    "_navbar.md",
+    "resize_window.md",
+    "multiple_frames.md",
     "home.md",
-    "ctk_input_dialog.md",
-    "ctk_entry.md",
-    "ctk_check_box.md"
+    "_sidebar.md",
+    "assets/frame_selection.gif",
+    "assets/classes.png",
+    "faq.md",
+    "_navbar.md"
   ]
 }

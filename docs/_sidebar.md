@@ -1,21 +1,27 @@
 * **CustomTkinter**
-	* General
-		- [Home](/home.md "About")
-		- [Installation](/install.md "Installation")
-		- [Samples](/samples.md "Sample Code")
-		- [Appearance](/appearance.md "Themes and Styling")
+
+	* Introduction
+		- [Home](/home.md "Overview")
+		- [Getting Started](quickstart.md "Getting Started")
 		- [FAQ](/faq.md "Frequent Asked Questions")
-		- [Roadmap](/roadmap.md "Roadmap")
-		- [Contribute](/contribute.md "Contribute")
-
-	* Cookbook
-
+	
+	* Samples and Cookbook
+		
+		* Samples
+		- [Samples](/samples.md "Sample Code")
+		
+		* Cookbook
 		- [Change icon](/change_icon.md)
 		- [Draggable Frame](draggable_frame.md)
 		- [Change Theme](/change_theme.md)
 		- [Resize Window](/resize_window.md)
 		- [Multiple Frames](/multiple_frames.md)
 
+		
+	* Styles and Themes
+	- [Appearance](/appearance.md "Themes and Styling")
+
+	
 	* Reference
 		* Commom Classes
 			- [Ctk Class](/ctk.md)

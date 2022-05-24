@@ -2,6 +2,11 @@
 
 If you want to divide an area with two reziable frames
 
+##### Preview
+![Project Packages](/assets/drag_panel.gif)
+
+##### Code
+
 ```python
 	import tkinter as tk
 	from tkinter import ttk

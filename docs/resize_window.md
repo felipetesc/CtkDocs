@@ -1,5 +1,14 @@
 ### Resize Window
 
+If you want to change the window size on-the-fly:
+
+
+##### Preview
+
+![Project Packages](/assets/resize_window.gif)
+
+
+##### Code
 
 ```python
 
