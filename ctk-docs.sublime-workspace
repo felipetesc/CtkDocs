@@ -4,11 +4,39 @@
 		"selected_items":
 		[
 			[
-				"contro",
-				"control_bar"
+				"frame",
+				"frame_color"
+			],
+			[
+				"fra",
+				"frame_id"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"fr",
+				"frame_id"
+			],
+			[
+				"tR",
+				"True"
+			],
+			[
+				"Bo",
+				"BOTH"
+			],
+			[
+				"main",
+				"main_container"
 			],
 			[
 				"c",
+				"customtkinter"
+			],
+			[
+				"contro",
 				"control_bar"
 			],
 			[
@@ -102,10 +130,6 @@
 			[
 				"on",
 				"on_move"
-			],
-			[
-				"fra",
-				"frame_right"
 			],
 			[
 				"color",
@@ -240,303 +264,58 @@
 	"buffers":
 	[
 		{
-			"file": ".gitignore",
+			"file": "/run/media/ftx/HD1T/Projects/Python/CtkProjects/CtkCookbook/multiple_frames/multi_frame2.py",
 			"settings":
 			{
-				"buffer_size": 38,
+				"buffer_size": 3196,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
 				[
-					1,
-					1,
-					"insert",
-					{
-						"characters": "/exa"
-					},
-					"BAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					2,
-					1,
-					"insert",
-					{
-						"characters": "mples/"
-					},
-					"BgAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					3,
-					1,
-					"insert",
-					{
-						"characters": "\n/"
-					},
-					"AgAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					4,
-					1,
-					"insert",
-					{
-						"characters": "ctd"
-					},
-					"AwAAAAwAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA8AAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					5,
-					1,
-					"left_delete",
-					null,
-					"AQAAAA4AAAAAAAAADgAAAAAAAAABAAAAZA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					6,
-					1,
-					"insert",
-					{
-						"characters": "k-doc"
-					},
-					"BQAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					7,
-					1,
-					"insert",
-					{
-						"characters": "s.s"
-					},
-					"AwAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					8,
-					1,
-					"insert",
-					{
-						"characters": "ublime"
-					},
-					"BgAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFgAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					9,
-					1,
-					"insert",
-					{
-						"characters": "-preo"
-					},
-					"BQAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAhAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					10,
-					2,
-					"left_delete",
-					null,
-					"AgAAACAAAAAAAAAAIAAAAAAAAAABAAAAbx8AAAAAAAAAHwAAAAAAAAABAAAAZQ",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
 					11,
 					1,
 					"insert",
 					{
-						"characters": "oject"
+						"characters": "1"
 					},
-					"BQAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+					"AQAAAOYBAAAAAAAA5wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5gEAAAAAAADmAQAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		},
 		{
-			"file": "examples/multi_frame.py",
+			"file": "/run/media/ftx/HD1T/Projects/Python/CustomTkinter/customtkinter/widgets/ctk_button.py",
 			"settings":
 			{
-				"buffer_size": 118,
-				"encoding": "UTF-8",
+				"buffer_size": 19175,
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
-				[
-					1,
-					1,
-					"paste",
-					null,
-					"AQAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					4,
-					1,
-					"insert",
-					{
-						"characters": "\n\n"
-					},
-					"AgAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					5,
-					1,
-					"insert",
-					{
-						"characters": "root"
-					},
-					"BAAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAFUAAAAAAAAAVgAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAUgAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					6,
-					1,
-					"insert",
-					{
-						"characters": " ="
-					},
-					"AgAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					7,
-					1,
-					"insert",
-					{
-						"characters": " Ct"
-					},
-					"AwAAAFgAAAAAAAAAWQAAAAAAAAAAAAAAWQAAAAAAAABaAAAAAAAAAAAAAABaAAAAAAAAAFsAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					8,
-					1,
-					"insert",
-					{
-						"characters": "k"
-					},
-					"AQAAAFsAAAAAAAAAXAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					10,
-					2,
-					"left_delete",
-					null,
-					"AgAAAFsAAAAAAAAAWwAAAAAAAAABAAAAa1oAAAAAAAAAWgAAAAAAAAABAAAAdA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					11,
-					1,
-					"insert",
-					{
-						"characters": "c"
-					},
-					"AQAAAFoAAAAAAAAAWwAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					12,
-					2,
-					"left_delete",
-					null,
-					"AgAAAFoAAAAAAAAAWgAAAAAAAAABAAAAY1kAAAAAAAAAWQAAAAAAAAABAAAAQw",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					13,
-					1,
-					"insert",
-					{
-						"characters": "cust"
-					},
-					"BAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABbAAAAAAAAAAAAAABbAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAXQAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					14,
-					1,
-					"insert",
-					{
-						"characters": "om"
-					},
-					"AgAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					15,
-					1,
-					"insert_completion",
-					{
-						"completion": "CustomTkinter",
-						"format": "text",
-						"keep_prefix": false,
-						"must_insert": false,
-						"trigger": "CustomTkinter"
-					},
-					"AgAAAFkAAAAAAAAAWQAAAAAAAAAGAAAAY3VzdG9tWQAAAAAAAABmAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAXwAAAAAAAABfAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					16,
-					1,
-					"insert",
-					{
-						"characters": ".C"
-					},
-					"AgAAAGYAAAAAAAAAZwAAAAAAAAAAAAAAZwAAAAAAAABoAAAAAAAAAAAAAAA",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAZgAAAAAAAABmAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					23,
-					1,
-					"left_delete",
-					null,
-					"AQAAAFIAAAAAAAAAUgAAAAAAAAAWAAAAcm9vdCA9IEN1c3RvbVRraW50ZXIuQw",
-					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAaAAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					1,
-					1,
-					"paste",
-					null,
-					"AQAAAFIAAAAAAAAAcAAAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFIAAAAAAAAAUgAAAAAAAAAAAAAAAADwvw"
-				],
-				[
-					3,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AgAAAHAAAAAAAAAAcQAAAAAAAAAAAAAAcQAAAAAAAAByAAAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAADwvw"
-				],
-				[
-					4,
-					1,
-					"insert",
-					{
-						"characters": "pass"
-					},
-					"BAAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHUAAAAAAAAAAAAAAHUAAAAAAAAAdgAAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHIAAAAAAAAAcgAAAAAAAAAAAAAAAADwvw"
-				]
 			]
 		}
 	],
-	"build_system": "Run Project",
+	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
 		[
 			[
 				[
@@ -566,6 +345,10 @@
 		"selected_items":
 		[
 			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
 				"toggle",
 				"Toggle Comment"
 			],
@@ -587,10 +370,6 @@
 			],
 			[
 				"co",
-				"Toggle Comment"
-			],
-			[
-				"comme",
 				"Toggle Comment"
 			],
 			[
@@ -674,10 +453,17 @@
 	},
 	"expanded_folders":
 	[
-		"/run/media/ftx/HD1T/Code Docs/CustomTkinter/CtkDocs"
 	],
 	"file_history":
 	[
+		"/run/media/ftx/HD1T/Projects/Python/CtkProjects/CtkCookbook/icon_sample/icon_test.py",
+		"/run/media/ftx/HD1T/Projects/Python/CtkProjects/CtkCookbook/event_frame/ev_bind2.py",
+		"/run/media/ftx/HD1T/Projects/Python/CtkProjects/CtkCookbook/drag_sample/drag2.py",
+		"/run/media/ftx/HD1T/Projects/Python/CtkProjects/CtkCookbook/icon_sample/ic.xbm",
+		"/run/media/ftx/HD1T/Projects/Python/CtkProjects/CtkCookbook/multiple_frames/multi_frame1.py",
+		"/run/media/ftx/HD1T/Projects/Python/CtkProjects/CtkCookbook/multiple_frames/multi_frame2.py",
+		"/run/media/ftx/HD1T/Code Docs/CustomTkinter/CtkDocs/.gitignore",
+		"/run/media/ftx/HD1T/Code Docs/CustomTkinter/CtkDocs/examples/multi_frame.py",
 		"/run/media/ftx/HD1T/Projects/Python/CtkProjects/MedicalPractice/components/sections/contacts/contacts_ui.py",
 		"/run/media/ftx/HD1T/Projects/Python/CtkProjects/MedicalPractice/builder/app_builder.py",
 		"/run/media/ftx/HD1T/Projects/Python/CtkProjects/MedicalPractice/components/control_bar/control_bar_behavior.py",
@@ -742,9 +528,7 @@
 		"/run/media/ftx/HD1T/Projects/Python/CtkProjects/Bugs/flickers.py",
 		"/run/media/ftx/HD1T/Projects/Python/CustomTkinter/customtkinter/widgets/ctk_radiobutton.py",
 		"/run/media/ftx/HD1T/Projects/Python/CtkProjects/Bugs/radio_bug_test.py",
-		"/run/media/ftx/HD1T/Projects/Python/CtkProjects/CtkCookbook/event_frame/ev_bind2.py",
 		"/run/media/ftx/HD1T/Projects/Python/CtkProjects/CtkCookbook/event_frame/ev_bind1.py",
-		"/run/media/ftx/HD1T/Projects/Python/CtkProjects/CtkCookbook/drag_sample/drag2.py",
 		"/run/media/ftx/HD1T/Projects/Python/CtkProjects/CtkCookbook/event_frame/ev_frame_1.py",
 		"/run/media/ftx/HD1T/Projects/Python/MedicalPractice/control_bar.py",
 		"/run/media/ftx/HD1T/Projects/Python/MedicalPractice/theme_builder_current.py",
@@ -797,7 +581,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -812,6 +596,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"color",
 			"behavior",
 			"state",
 			"parent",
@@ -917,51 +702,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": ".gitignore",
+					"file": "/run/media/ftx/HD1T/Projects/Python/CtkProjects/CtkCookbook/multiple_frames/multi_frame2.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 38,
+						"buffer_size": 3196,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								36,
-								36
-							]
-						],
-						"settings":
-						{
-							"lsp_uri": "file:///run/media/ftx/HD1T/Code%20Docs/CustomTkinter/CtkDocs/.gitignore",
-							"show_definitions": true,
-							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "examples/multi_frame.py",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 118,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								118,
-								118
+								166,
+								166
 							]
 						],
 						"settings":
@@ -983,15 +736,67 @@
 								}
 							],
 							"lsp_active": true,
-							"lsp_hover_provider_count": 4,
-							"lsp_uri": "file:///run/media/ftx/HD1T/Code%20Docs/CustomTkinter/CtkDocs/examples/multi_frame.py",
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///run/media/ftx/HD1T/Projects/Python/CtkProjects/CtkCookbook/multiple_frames/multi_frame2.py",
 							"show_definitions": false,
 							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
-							"translate_tabs_to_spaces": false
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/run/media/ftx/HD1T/Projects/Python/CustomTkinter/customtkinter/widgets/ctk_button.py",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 19175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4196,
+								4196
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-pylsp"
+								}
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///run/media/ftx/HD1T/Projects/Python/CustomTkinter/customtkinter/widgets/ctk_button.py",
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1665.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1042,7 +847,7 @@
 	},
 	"output.exec":
 	{
-		"height": 232.0
+		"height": 228.0
 	},
 	"output.find_results":
 	{
