@@ -28,12 +28,12 @@ Install Docsify Help -> https://docsify.js.org/#/quickstart
 
 1. After Node and docsify are installed on your system, clone this repository.
 
-2. Open your preferred console, and navigate to the docs folder inside the CtkDocs repository.
+2. Open your preferred console (node need to added to the path), and navigate to the docs folder inside the CtkDocs repository.
 
-3. Run docsify serve
+3. Run the command:
+
+```bash 
+docsify serve
+ ```
 
 4. Open Your browser and navigate to **http://localhost:3000/**
-
-
-
-
