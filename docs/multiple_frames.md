@@ -123,7 +123,4 @@ a.mainloop()
 ```
 <video width="630" height="300" src="https://github.com/felipetesc/CtkDocs/assets/2336812/5c5d24ce-46b7-40b6-b022-0d450d66de6b"></video>
 
-[Demo Video](_https://github.com/felipetesc/CtkDocs/assets/2336812/5c5d24ce-46b7-40b6-b022-0d450d66de6b ':include :type=video controls width=100%')
-
-
 
